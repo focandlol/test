@@ -7,5 +7,6 @@ public class TestController {
         System.out.println("hello world2");
 
         System.out.println("merge test");
+        System.out.println("merge test2");
     }
 }
