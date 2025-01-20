@@ -9,6 +9,6 @@ public class TestController {
         System.out.println("merge test");
         System.out.println("merge test2");
 
-        System.out.println("test3");
+        System.out.println("test3 conflict");
     }
 }
